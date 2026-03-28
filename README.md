@@ -1593,6 +1593,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Visuallm](https://github.com/gortibaldik/visuallm) - Visualization tool for various generation tasks on Language Models.
 - [WFGY](https://github.com/onestardao/WFGY) - An open-source framework for debugging and stress testing LLMs under long-horizon, high-tension text scenarios. Includes a TXT-based debugging app for structured sequences to identify where reasoning breaks and retrieval fails [github](https://github.com/onestardao/WFGY)
 - [Whitebox-Code-Gpt](https://github.com/Decron/Whitebox-Code-GPT) - Repository of instructions for Programming-specific GPT models
+- [Widemem-Ai](https://github.com/remete618/widemem-ai) - Lightweight Python memory layer for LLM agents with importance scoring, temporal decay, 3-tier hierarchical memory, YMYL prioritization, and batch conflict resolution. Local-first with SQLite + FAISS. [github](https://github.com/remete618/widemem-ai) | [website](https://widemem.ai) | [pypi](https://pypi.org/project/widemem-ai/)
 - [Wildguard](https://github.com/allenai/wildguard) - Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs
 - [Wxflows](https://github.com/IBM/wxflows) - Examples and tutorials for building AI applications with watsonx.ai Flows Engine
 - [Xemantic-Ai-Tool-Schema](https://github.com/xemantic/xemantic-ai-tool-schema) - Kotlin multiplatform AI/LLM tool use (function calling) JSON Schema generator
